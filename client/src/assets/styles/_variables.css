@@ -1,0 +1,72 @@
+:root {
+/* Color Palette */
+--color-primary: #b472c0;
+--color-secondary: #dfa70b;
+--color-accent: #e74c3c;
+--color-background: #f4f4f4;
+--color-text-dark: #333333;
+--color-text-light: #ffffff;
+
+/* Typography */
+--font-primary: 'Inter', sans-serif;
+--font-secondary: 'Roboto', sans-serif;
+--font-size-base: 16px;
+--font-size-small: 14px;
+--font-size-large: 18px;
+--font-weight-light: 300;
+--font-weight-regular: 400;
+--font-weight-bold: 700;
+
+/* Mobile Font Sizes */
+--font-size-mobile-base: 14px;
+--font-size-mobile-small: 12px;
+--font-size-mobile-large: 16px;
+--font-size-mobile-heading-1: 24px;
+--font-size-mobile-heading-2: 20px;
+--font-size-mobile-heading-3: 18px;
+
+/* Desktop Font Sizes */
+--font-size-desktop-base: 16px;
+--font-size-desktop-small: 14px;
+--font-size-desktop-large: 18px;
+--font-size-desktop-heading-1: 32px;
+--font-size-desktop-heading-2: 26px;
+--font-size-desktop-heading-3: 22px;
+
+/* Responsive Font Size Scaling */
+--font-scale-mobile: 0.9;
+--font-scale-desktop: 1;
+
+/* Spacing */
+--spacing-xs: 0.5rem;
+--spacing-sm: 1rem;
+--spacing-md: 1.5rem;
+--spacing-lg: 2rem;
+--spacing-xl: 3rem;
+
+/* Breakpoints
+--breakpoint-mobile: 576px;
+--breakpoint-tablet: 768px;
+--breakpoint-desktop: 992px;
+--breakpoint-large: 1200px; */
+
+/* Shadows */
+--shadow-subtle: 0 2px 4px rgba(0, 0, 0, 0.1);
+--shadow-medium: 0 4px 6px rgba(0, 0, 0, 0.15);
+--shadow-strong: 0 6px 12px rgba(0, 0, 0, 0.2);
+
+/* Border Radius */
+--border-radius-sm: 4px;
+--border-radius-md: 8px;
+--border-radius-lg: 12px;
+--border-radius-round: 50%;
+
+/* Transitions */
+--transition-fast: 0.2s ease;
+--transition-medium: 0.3s ease;
+--transition-slow: 0.5s ease;
+
+/* Opacity */
+--opacity-hover: 0.8;
+--opacity-disabled: 0.5;
+}
